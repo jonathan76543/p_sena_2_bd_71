@@ -9,7 +9,7 @@
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-    <p class="login-box-msg">_____________        BIENVENIDOS       _____________</p>
+    <p class="login-box-msg">___ BIENVENIDO INGRESA TUS DATOS ___</p>
 
     <form method="post">
 
